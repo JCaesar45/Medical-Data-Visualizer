@@ -57,5 +57,3 @@ Submit this on the [freeCodeCamp](https://www.freecodecamp.org/) platform to ear
 ```
 
 ---
-
-Let me know if you want to include example images or GitHub badges too!
